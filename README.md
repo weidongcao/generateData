@@ -1,0 +1,2 @@
+# generateData
+根据模板生成数据并通过shell脚本把数据导入到ClickHouse
